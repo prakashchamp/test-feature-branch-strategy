@@ -1,4 +1,4 @@
-sample txt file for my new changes
+sample txt file for new implemenation
 
 initial commit in main
 
